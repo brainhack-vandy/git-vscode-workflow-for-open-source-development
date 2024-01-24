@@ -1,5 +1,4 @@
 # Git and Visual Studio Code Workflow for Open Source Development
-[Link to slides](https://docs.google.com/presentation/d/1kEzRHsBBTpvilh1zpBSfQOpAK04aeRGgS8oNSJg6IAM/edit?usp=sharing)
 
 In this session, we will explore the powerful combination of Git, Visual Studio Code, and GitHub Copilot to streamline your open-source development process. Whether you're a seasoned developer or just starting your journey in open source, this workshop will provide you with essential tips and techniques to enhance your workflow, collaborate effectively with others, and make the most out of these innovative tools.
  
